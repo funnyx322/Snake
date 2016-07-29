@@ -1,1 +1,6 @@
 C:\Users\Valentina\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Valentina\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Valentina\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Valentina\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Valentina\Desktop\Snake\Snake\obj\Debug\Snake.pdb
